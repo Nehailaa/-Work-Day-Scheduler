@@ -23,9 +23,8 @@ WHEN I refresh the page
 THEN the saved events persist
 
 Websites:
-Github: 
-Deployed: 
-
+Github: https://github.com/Nehailaa/-Work-Day-Scheduler
+Deployed: https://nehailaa.github.io/-Work-Day-Scheduler/
 
 Mock-Up
 The following animation demonstrates the application functionality:
