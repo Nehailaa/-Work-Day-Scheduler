@@ -30,6 +30,8 @@ Deployed:
 Mock-Up
 The following animation demonstrates the application functionality:
 
+<img src="Assets/images/Mock-Up.gif" alt="Mock-up of the project" />
+
 Features:
 HTML
 CSS
